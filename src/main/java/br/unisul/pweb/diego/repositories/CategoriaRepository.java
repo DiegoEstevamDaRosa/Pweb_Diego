@@ -1,4 +1,4 @@
-package br.unisul.pweb.diego.repository;
+package br.unisul.pweb.diego.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

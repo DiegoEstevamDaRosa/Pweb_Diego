@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import br.unisul.pweb.diego.domain.Categoria;
-import br.unisul.pweb.diego.repository.CategoriaRepository;
+import br.unisul.pweb.diego.repositories.CategoriaRepository;
 
 @Service
 public class CategoriaService {
