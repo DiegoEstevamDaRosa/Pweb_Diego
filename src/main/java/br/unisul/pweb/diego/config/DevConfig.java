@@ -1,6 +1,5 @@
 package br.unisul.pweb.diego.config;
 
-
 import java.text.ParseException;
 
 import org.springframework.beans.factory.annotation.Autowired;
